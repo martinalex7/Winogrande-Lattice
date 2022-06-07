@@ -2,5 +2,5 @@ pandas
 numpy
 sklearn
 nltk
-spacy
+spicy
 matplotlib
