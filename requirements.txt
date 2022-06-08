@@ -5,3 +5,4 @@ nltk
 spicy
 matplotlib
 gensim
+tqdm
