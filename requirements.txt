@@ -8,3 +8,4 @@ gensim
 tqdm
 sentence-transformers
 seaborn
+rank_bm25
