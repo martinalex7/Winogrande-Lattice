@@ -9,3 +9,5 @@ tqdm
 sentence-transformers
 seaborn
 rank_bm25
+tensorflow-gpu
+tensorflow-hub
