@@ -45,4 +45,4 @@ of lexical and semantical bias among training/test sets of BERT models applied t
 
 - **Step 1** :
   - *08/06* : Tryouts on Clustering and Topic Modeling Methods `first_test.ipynb`
-  - *09/06* : 
+  - *09/06* : Tryouts on SentenceTransformers' bert-base-nli-mean-tokens model

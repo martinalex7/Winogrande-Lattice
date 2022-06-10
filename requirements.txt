@@ -6,3 +6,5 @@ spicy
 matplotlib
 gensim
 tqdm
+sentence-transformers
+seaborn
