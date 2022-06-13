@@ -44,7 +44,7 @@ of lexical and semantical bias among training/test sets of BERT models applied t
 ### Progression : 
 
 - **Step 1** :
-  - *08/06* : Tryouts on Clustering and Topic Modeling Methods `first_semantical_test.ipynb`
-  - *09/06* : Tryouts on SentenceTransformers' bert-base-nli-mean-tokens model `first_semantical_test.ipynb`, Run the model on xl_dataset `data`
-  - *10/06* : Evaluation of the relevancy of the SentenceTransformer based score, Tryout on Overalap Score (BM25), GUSE Embedding, Mutual Information `first_semantical_test.ipynb`. First conclusions on the potential scores to use for the semantical approach.
-  - 
+  - *08/06* : Tryouts on Clustering and Topic Modeling Methods `first_tests.ipynb`
+  - *09/06* : Tryouts on SentenceTransformers' bert-base-nli-mean-tokens model `first_tests.ipynb`, Run the model on xl_dataset `data`
+  - *10/06* : Evaluation of the relevancy of the SentenceTransformer based score, Tryout on Overalap Score (BM25), GUSE Embedding, Mutual Information `first_tests.ipynb.ipynb`. First conclusions on the potential scores to use for the semantical approach.
+  - *13/06* : Tryouts on Jaccard Similarity applied to Constituency Trees & Dependency Trees `first_tests.ipynb`
