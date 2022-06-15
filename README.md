@@ -49,3 +49,4 @@ of lexical and semantical bias among training/test sets of BERT models applied t
   - *10/06* : Evaluation of the relevancy of the SentenceTransformer based score, Tryout on Overalap Score (BM25), GUSE Embedding, Mutual Information `first_tests.ipynb.ipynb`. First conclusions on the potential scores to use for the semantical approach.
   - *13/06* : Tryouts on Jaccard Similarity applied to Constituency Trees & Dependency Trees `first_tests.ipynb`
   - *14/06* : Correction on Jaccard Similarity applied to Consituency Trees `first_tests.ipynb`
+  - *15/06* : Tryouts on Dependency Trees `first_tests.ipynb`
